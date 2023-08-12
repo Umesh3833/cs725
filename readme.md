@@ -1,12 +1,6 @@
-CS 725 (Autumn 2022): Programming Assignment
+CS 725 (Autumn 2022)
 Implementation of a Feedforward Neural Network (FNN) using Python
 
-Group Details
-Roll No.   Name
-22M2116 Dhruv Kudale
-22M2118 Ameya Srivastava
-22M2122 Kishan Maharaj
-22M1078 Umeshraja N
 
 
 The assignment consists of four parts. 
