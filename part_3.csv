@@ -1,0 +1,9 @@
+Name,Value
+max_epochs,100
+batch_size,32
+learning_rate,0.00075
+num_layers,4
+num_units,32
+lamda,0.001
+patience,3
+min_delta,0.0001
